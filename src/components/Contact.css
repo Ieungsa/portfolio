@@ -43,6 +43,11 @@
   font-size: 1.5rem;
 }
 
+.github-icon {
+  width: 24px;
+  height: 24px;
+}
+
 @media (max-width: 768px) {
   .contact-text {
     font-size: 1rem;
